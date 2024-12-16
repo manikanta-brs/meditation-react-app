@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meditation-react-app/static/css/main.b97acdd5.css",
+    "main.js": "/meditation-react-app/static/js/main.a57edd3a.js",
+    "static/js/453.e7cecfd7.chunk.js": "/meditation-react-app/static/js/453.e7cecfd7.chunk.js",
+    "static/media/iss.png": "/meditation-react-app/static/media/iss.1caeb609a9ccffa1af6b.png",
+    "static/media/BG.png": "/meditation-react-app/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/meditation-react-app/index.html",
+    "main.b97acdd5.css.map": "/meditation-react-app/static/css/main.b97acdd5.css.map",
+    "main.a57edd3a.js.map": "/meditation-react-app/static/js/main.a57edd3a.js.map",
+    "453.e7cecfd7.chunk.js.map": "/meditation-react-app/static/js/453.e7cecfd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97acdd5.css",
+    "static/js/main.a57edd3a.js"
+  ]
+}
